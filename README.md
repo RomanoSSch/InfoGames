@@ -1,6 +1,4 @@
-## **README.md Descontraído para o Seu Projeto InfoGames**
-
-### **InfoGames: Seu Portal Gamer Personalizado!** 
+### **InfoGames: Seu Portal de Games Personalizado!** - Imersão Dev com Google Gemini
 
 **O que é o InfoGames?**
 
